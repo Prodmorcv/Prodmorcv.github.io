@@ -22,6 +22,7 @@ body {
     color: aliceblue;
     font-family: "letra";
     font-size: x-large;
+    width : 100%;
 }
 
 nav {
@@ -46,11 +47,13 @@ nav {
     border: 0;
     margin: 0%;
     margin-top: 115px;
+    width: 100%;
 
 }
 
 .sep {
     border-top: 3px solid yellow;
+    width: 100
 }
 
 #sobremi {
